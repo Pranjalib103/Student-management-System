@@ -65,6 +65,7 @@ student-management-portal/
 
 
 ### Future Enhancements:
+----------------------------------------------------------------------
 #### Admin Panel: 
 Add an admin interface for managing student data and courses.
 #### Email Notifications:
