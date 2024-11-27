@@ -10,7 +10,7 @@
 7. Future Enhancements
 ======================================================================================
                                                    Introduction:
-======================================================================================
+=======================================================================================
 The Student Management Portal is a web-based application designed to streamline the management of student data,
 including registration, course enrollment, profile management, and grade viewing. The portal is built using Flask,
 a lightweight Python web framework, and MySQL for database management.
@@ -23,18 +23,18 @@ Profile Management: Students can view and update their profiles, including their
 Course Enrollment: Students can enroll in courses and view the courses they have selected.
 Grade Viewing: Students can view their grades for different subjects in a tabular format.
 Responsive Design: The portal is designed to be responsive and accessible on various devices.
-=======================================================================================================================
+=======================================================================================
                                                  Technologies Used:
-======================================================================================================================
+========================================================================================
 Frontend: HTML, CSS, Bootstrap
 Backend: Python, Flask
 Database: MySQL
 Other Libraries:
 Werkzeug for secure file handling
 hashlib for password hashing
-=======================================================================================================================
+===================================================================================
                                                      Project Workflow
-======================================================================================================================
+=====================================================================================
 The workflow of the project is as follows:
 User Registration: Users sign up with personal details.
 Login: Authenticated users can log in to access the portal.
