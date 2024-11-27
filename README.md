@@ -46,6 +46,7 @@ hashlib for password hashing
 student-management-portal/
 
 │
+
 ├── app.py                # Main application file
 
 ├── config.py             # Database configuration file
@@ -54,27 +55,27 @@ student-management-portal/
 
 │      ├── index.html
 
-│   ├── register.html
+│      ├── register.html
 
-│   ├── login.html
+│      ├── login.html
 
-│   ├── profile.html
+│      ├── profile.html
 
-│   ├── enroll.html
+│      ├── enroll.html
 
-│   └── grades.html
+│      └── grades.html
 
 ├── static/               # Static files (CSS, images, uploads)
 
-│   ├── css/
+│     ├── css/
 
-│   ├── images/
+│     ├── images/
 
-│   └── uploads/
+│     └── uploads/
 
 ├── requirements.txt      # Python dependencies
 
-└── README.md             # Project documentation
+       └── README.md             # Project documentation
 
 
 
