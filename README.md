@@ -45,6 +45,7 @@ hashlib for password hashing
 --------------------------------------------------
 student-management-portal/
 │
+
 ├── app.py                # Main application file
 ├── config.py             # Database configuration file
 ├── templates/            # HTML templates
