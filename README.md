@@ -41,6 +41,8 @@ hashlib for password hashing
 3.Profile Management: Users can view and update their profile information.
 4.Course Enrollment: Users select and enroll in courses.
 5.Grade Viewing: Users view their grades for enrolled courses.
+
+--------------------------------------------------
 student-management-portal/
 │
 ├── app.py                # Main application file
