@@ -44,22 +44,37 @@ hashlib for password hashing
 
 --------------------------------------------------
 student-management-portal/
+
 │
 
 ├── app.py                # Main application file
+
 ├── config.py             # Database configuration file
+
 ├── templates/            # HTML templates
+
 │   ├── index.html
+
 │   ├── register.html
+
 │   ├── login.html
+
 │   ├── profile.html
+
 │   ├── enroll.html
+
 │   └── grades.html
+
 ├── static/               # Static files (CSS, images, uploads)
+
 │   ├── css/
+
 │   ├── images/
+
 │   └── uploads/
+
 ├── requirements.txt      # Python dependencies
+
 └── README.md             # Project documentation
 
 
