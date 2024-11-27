@@ -9,13 +9,13 @@
 6. File Structure
 7. Future Enhancements
 ======================================================================================
-                                                   Introduction:
+                                                  ### Introduction:
 =======================================================================================
 The Student Management Portal is a web-based application designed to streamline the management of student data,
 including registration, course enrollment, profile management, and grade viewing. The portal is built using Flask,
 a lightweight Python web framework, and MySQL for database management.
 =======================================================================================
-                                                     Features:
+                                                    ### Features:
 ======================================================================================
 Student Registration: Allows students to create an account by providing personal details and a profile photo.
 User Authentication: Secure login and logout functionality using hashed passwords.
